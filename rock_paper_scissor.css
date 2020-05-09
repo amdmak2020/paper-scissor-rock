@@ -1,0 +1,66 @@
+.inti {
+    display: flex;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    padding: 5px;
+    justify-content: space-around;
+}
+.mak{
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    width: 75%;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    justify-content: space-around;
+}
+body{
+    font-size: 35px;
+    font-family: Bangers;
+}
+.amd {
+    padding: 5px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: space-around;
+}
+.zozo {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(70, 133, 133);
+    padding: 5px;
+    justify-content: space-around;
+    display: flex;
+
+}
+#cri {
+    border-width: 1px;
+    padding: 5px;
+    justify-content: space-around;
+    display: flex;
+}
+.ski {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0px;
+    padding: 5px;
+    justify-content: space-around;
+}
+.ski img{
+    max-width: 200px;
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    margin: 0em;
+    box-shadow: 1.45em 1.45em 1.95em rgba(0,0,0,.25),
+                1.325em 1.325em 1.45em rgba(0,0,0,.15);
+}
+.spe img:hover {
+    box-shadow: 0.45em 0.45em 0.95em rgba(0, 217, 255, 0.233),
+                0.325em 0.325em 0.45em rgba(61, 39, 255, 0.301);
+}
